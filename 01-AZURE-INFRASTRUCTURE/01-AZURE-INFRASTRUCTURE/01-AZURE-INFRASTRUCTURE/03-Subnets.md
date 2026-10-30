@@ -78,15 +78,9 @@ Les vérifications à effectuer :
 <img width="976" height="371" alt="image" src="https://github.com/user-attachments/assets/d728eaf8-c4ba-44ce-9b10-29531a35b2a3" />
 
 
-## 8. Compétences développées
 
-- Segmentation d'un réseau virtuel.
-- Configuration des plages IPv4.
-- Organisation des serveurs et des postes clients.
-- Préparation d'une architecture réseau sécurisée.
-- Planification de l'adressage IP.
 
-## 9. Conclusion
+## 8. Conclusion
 
 La segmentation du réseau `VNet-TECHNOVA` permet de séparer logiquement les serveurs, les équipements d'administration et les postes clients.
 
