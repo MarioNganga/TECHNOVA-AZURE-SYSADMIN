@@ -51,14 +51,6 @@ Après la création, j'ai vérifié les éléments suivants :
 
 <img width="765" height="205" alt="image" src="https://github.com/user-attachments/assets/b5640596-2fbf-49ce-9c79-598b8352f928" />
 
-- `02-vnet-address-space.png` : configuration de l'espace d'adressage.
-
-## 7. Compétences développées
-
-- Création d'un réseau virtuel Azure.
-- Configuration de l'adressage IPv4.
-- Organisation d'une infrastructure cloud.
-- Compréhension des réseaux privés dans Microsoft Azure.
 
 ## 8. Conclusion
 
